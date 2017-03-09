@@ -1,4 +1,4 @@
-# downloadFile
+# save-to-disk
 Javascript modules for save files from browser on disk.
 
 ## Install
