@@ -13,7 +13,7 @@ npm install save-to-disk
 var lib = require('save-to-disk'),
 downloadFile = lib.saveToDiskNew,
 
-var url = 'http://mergeye.com/public/img/logo.png';
+var url = 'http://test.com/logo.png';
 downloadFile(url, 'test.png');
 ```
 
