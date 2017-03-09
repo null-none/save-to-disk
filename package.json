@@ -1,0 +1,19 @@
+{
+  "name": "save-to-disk",
+  "version": "1.0.0",
+  "description": "Javascript modules for save files from browser on disk",
+  "main": "setup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/null-none/save-to-disk.git"
+  },
+  "author": "Dmitry Kalinin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/null-none/save-to-disk/issues"
+  },
+  "homepage": "https://github.com/null-none/save-to-disk#readme"
+}
